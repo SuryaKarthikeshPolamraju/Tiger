@@ -1,7 +1,7 @@
 {
   "__comment1": "Obtain these values via Roboflow",
   "ROBOFLOW_API_KEY": "HIXGKPVWtBYgeW40VCpW",
-  "ROBOFLOW_MODEL": "tiger-detection-mljxu",
+  "ROBOFLOW_MODEL": "tiger-detection-mljxu/1",
   "ROBOFLOW_SIZE": 416,
   "DATASET_NAME": "tiger-detection-mljxu",
   "LOCAL_SERVER": false,
